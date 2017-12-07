@@ -1,0 +1,125 @@
+
+
+.welcome{
+	color: white;
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+	color:white;
+}
+
+
+
+
+
+.body {
+	background-image: url("background1.jpg");
+	margin: -5px;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+
+}
+
+.namebox {
+	padding: 20px;
+
+}
+
+.buttons {
+	padding: 30px;
+
+
+}
+
+.aboutme {
+	padding: 20px;
+	text-align: center;
+}
+
+.contactme {
+	padding: 20px;
+	text-align: center;
+
+}
+
+#subject {
+	height: 400px;
+	widows: 400px;
+}
+
+.footer {
+	text-align: center;
+}
+
+.contact {
+	background-image: url("background2.jpg");
+	color: white;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.contactform {
+	text-align: center;
+	align-items: center
+}
+
+#portfolio {
+	background-image: url("background3.jpg");
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+}
+
+.myportfolio {
+	text-align: center;
+	border: 4px;
+
+}
+
+.art1 {
+	float: left;
+	padding: 20px;
+	border-radius: 12px;
+	margin: 15px;
+
+	
+}
+
+
+   
+
+.art2 {
+	float: left;
+	padding: 20px;
+	border-radius: 12px;
+	margin: 15px;
+	
+
+
+}
+
+
+
+.art3 {
+	float: right;
+	padding: 20px;
+	border-radius: 12px;
+	margin: 15px;
+	
+	
+
+}
+
+.art4 {
+	float: right;
+	padding: 20px;
+	border-radius: 12px;
+	margin: 15px;
+	
+}
+
+
+
+
+
+
